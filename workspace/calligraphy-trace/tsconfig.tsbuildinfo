@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/store.ts","./src/types.ts","./src/components/OverlayCanvas.tsx","./src/components/StudentPanel.tsx","./src/components/TeacherPanel.tsx","./src/lib/contour.ts","./src/lib/diff.ts","./src/lib/imageProcessing.ts","./src/lib/template.ts"],"version":"5.9.3"}
